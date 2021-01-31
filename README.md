@@ -1,7 +1,7 @@
 # Login_project
 Login Screen Project by Kezia Mari Cabalonga, Louie Steven Cadaguman, Jezreel Zaldarriaga
 
-Welcome to our Project!
+Welcome to our project!
 
 These are the variants of animations and images that we used for our application development.
 1.) Rive Animation
@@ -16,22 +16,22 @@ We also designed 3 screens under the folder 'screens':
 2.) Login Screen (login.dart)
 3.) Home (home.dart)
 
-we separated the main method (main.dart) and another class file (FadeAnimation.dart) away from the screens folder so we would be able to easily determine future errors.
+We separated the main method (main.dart) and another class file (FadeAnimation.dart) away from the screens folder so we would be able to easily determine future errors.
 
-IDE we used is VisualStudioCode.
+The IDE we used is VisualStudioCode.
 
 APPLICATION MANUAL/ INSTRUCTIONS:
 
-#Note: Opening or Running the app would first direct you to the SplashScreen with a welcome message, developer's names, and a button.
+#Note: Opening or running the app would first direct you to the SplashScreen with a welcome message, developer's names, and a button.
    1.)To start, 'PRESS' the button to proceed to the login screen.
-   2.)In the login Screen, provide the username and password then press login.
+   2.)In the login screen, provide the username and password then press login.
       Enter the following credentials:
       Username: cictapps@wvsu.edu.ph
       password: 1234
 #Note:  The login screen will now redirect you to the home screen.  Our Home screen is less functional except for the Log-out button.
        
    
-   3.) To logout, Press the logout button.
+   3.) To logout, press the logout button.
 
 
 
