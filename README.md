@@ -1,7 +1,7 @@
 # Login_project
 Login Screen Project by Kezia Mari Cabalonga, Louie Steven Cadaguman, Jezreel Zaldarriaga
 
-Welcome to our login screen!
+Welcome to our Project!
 
 These are the variants of animations and images that we used for our application development.
 1.) Rive Animation
