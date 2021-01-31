@@ -22,7 +22,7 @@ IDE we used is VisualStudioCode.
 
 APPLICATION MANUAL/ INSTRUCTIONS:
 
-#Note: Opening or Running the app would first redirect you to the SplashScreen with a welcome message, developer's names, and a button.
+#Note: Opening or Running the app would first direct you to the SplashScreen with a welcome message, developer's names, and a button.
    1.)To start, 'PRESS' the button to proceed to the login screen.
    2.)In the login Screen, provide the username and password then press login.
       Enter the following credentials:
