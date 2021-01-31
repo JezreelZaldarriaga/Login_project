@@ -18,7 +18,7 @@ We also designed 3 screens under the folder 'screens':
 
 we separated the main method (main.dart) and another class file (FadeAnimation.dart) away from the screens folder so we would be able to easily determine future errors.
 
-IDE we used is the VisualStudioCode.
+IDE we used is VisualStudioCode.
 
 APPLICATION MANUAL/ INSTRUCTIONS:
 
