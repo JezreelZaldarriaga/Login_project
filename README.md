@@ -1,16 +1,36 @@
-# login_project
+# Login_project
+Login Screen Project by Kezia Mari Cabalonga, Louie Steven Cadaguman, Jezreel Zaldarriaga
 
-A new Flutter project.
+Welcome to our project!
 
-## Getting Started
+These are the variants of animations and images that we used for our application development.
+1.) Rive Animation
+2.) GIF
+3.) JPG
+4.) PNG
+5.) Flutter Animation
+#Note: The corresponding files were stored on the the assets folder and most importantly added on the dependecies and assets on pubspec.yml for the app to recognize the files used.
 
-This project is a starting point for a Flutter application.
+We also designed 3 screens under the folder 'screens':
+1.) Splash Screen (SplashScreen.dart)
+2.) Login Screen (login.dart)
+3.) Home (home.dart)
 
-A few resources to get you started if this is your first Flutter project:
+We separated the main method (main.dart) and another class file (FadeAnimation.dart) away from the screens folder so we would be able to easily determine future errors.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The IDE we used is VisualStudioCode.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APPLICATION MANUAL/ INSTRUCTIONS:
+
+#Note: Opening or running the app would first direct you to the SplashScreen with a welcome message, developer's names, and a button.
+   1.)To start, 'PRESS' the button to proceed to the login screen.
+   2.)In the login screen, provide the username and password then press login.
+      Enter the following credentials:
+      Username: cictapps@wvsu.edu.ph
+      password: 1234
+#Note:  The login screen will now redirect you to the home screen.  Our Home screen is less functional except for the Log-out button.
+     
+   3.) To logout, press the logout button.
+
+
+
