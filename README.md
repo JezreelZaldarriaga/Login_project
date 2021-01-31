@@ -28,8 +28,8 @@ APPLICATION MANUAL/ INSTRUCTIONS:
       Enter the following credentials:
       Username: cictapps@wvsu.edu.ph
       password: 1234
-#Note:  The login screen will now redirect you to the home screen.
-        Our Home screen is less functional except for the Log-out button.
+#Note:  The login screen will now redirect you to the home screen.  Our Home screen is less functional except for the Log-out button.
+       
    
    3.) To logout, Press the logout button.
 
